@@ -1,5 +1,5 @@
 # Twitter-Sentiment-Analysis
-A course project for Pattern recognition and Machine Learning course at I.I.T. Jodhpur.
+A course project for Pattern recognition and Machine Learning course at IIT Jodhpur.
 # Project Setup
 1. Clone the repository.<br/>
 `git clone https://github.com/Rajeshwari2001/Twitter-Sentiment-Analysis.git`
